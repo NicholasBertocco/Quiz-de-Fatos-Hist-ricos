@@ -1,0 +1,16 @@
+{
+  "name": "quiz-de-fatos-hist-ricos",
+  "version": "1.0.0",
+  "description": "Jogo de perguntas e respostas para treinar habilidades em JS como conceitos e métodos de funções nativas e funçõe com parâmetro e sem parâmetro e Arrow Functions",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
